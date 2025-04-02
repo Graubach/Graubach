@@ -1,5 +1,5 @@
-## Helloo, Graubach here 👋
-
+## Helloo, Graubach here (WIP) 👋
+## Processing
 
 - 🔭 I'm currently building my homeserver
 - 🌱 Also learning a lot about cloud tools
